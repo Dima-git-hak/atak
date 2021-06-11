@@ -8,7 +8,7 @@
 # Установить
 • <code>git clone https://github.com/Dima-git-hak/atak</code><br>
 • <code>cd atak</code><br>
-• <code>python2 ddos.py</code><br>
+• <code>python2 ddos.py 👇</code><br>
 
 - python2 ddos.py [ip роутера] [порт] 999999
 
