@@ -6,7 +6,7 @@ import random
 import sys
 
 def usage():
-    print "Command: " + sys.argv[0] + " <ip> <port> <packet>"
+    print "Command: " + sys.argv[0] + " <айпи> <порт> <пакеты - рекамендую ставить 999999>"
 
 def flood(victim, vport, duration):
     
