@@ -6,9 +6,9 @@
 ##############################################
 
 # Установить
-- git clone https://github.com/Dima-git-hak/atak
-- cd atak
-- python2 ddos.py
+• git clone https://github.com/Dima-git-hak/atak
+• cd atak
+• python2 ddos.py
 
 python2 ddos.py [ip роутера] [порт] 999999
 
