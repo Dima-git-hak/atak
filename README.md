@@ -8,7 +8,7 @@
 # Установить
 • <code>git clone https://github.com/Dima-git-hak/atak</code><br>
 • <code>cd atak</code><br>
-• <code>python2 ddos.py [ip роутера] [порт] 999999</code><br> все это, без скобок
+• <code>python2 ./ddos.py [ip роутера] [порт] 999999</code><br> все это, без скобок
 
 ## Использование
 • Перед использованием этого инструмента вы должны найти нужный вам IP-адрес жертвы и сканировать, где открыты порты!

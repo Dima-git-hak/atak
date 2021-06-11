@@ -1,4 +1,4 @@
-"""Ддос атака на вай-фай
+"""Ддос атака на вай-фай 
 Tool untuk melakukan pengiriman packet kepada mantan terindah :'v """
 import time
 import socket
