@@ -6,7 +6,7 @@
 ##############################################
 
 #Установить
-- git clone https://github.com/Dima-git-hak/atak
+ git clone https://github.com/Dima-git-hak/atak
 - cd atak
 - python2 ./pntddos.py
 
